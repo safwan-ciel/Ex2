@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string>
 
+//test de git
+
 Voiture::Voiture(const std::string& a, const std::string& b, const std::string& c, const std::string& d, int g, int h, bool e ) 
 //Le & permet de passer des références à string ce qui permet de rendre visible les changements opérés sur les paramètres d'entrées //
 
